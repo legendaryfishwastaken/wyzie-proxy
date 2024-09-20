@@ -1,1 +1,1 @@
-find it at http://proxy.wyzie.ru !
+find it at http://lameproxy.lfdev.site !
